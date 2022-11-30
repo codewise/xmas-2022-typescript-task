@@ -1,5 +1,5 @@
 import { Cookie } from "./cookie";
 
-export interface Report {
+export interface IReport {
     getCookies(): Cookie[];
 }

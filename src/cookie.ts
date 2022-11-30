@@ -1,4 +1,4 @@
-import { CookieType } from "./cookie-type";
+import { CookieType } from "./cookie-type.enum";
 
 export class Cookie {
     public constructor(
