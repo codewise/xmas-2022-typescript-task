@@ -1,3 +1,5 @@
+# XMAS 2022 typescript task
+
 W fabryce ciasteczek, jak przed każdymi Świętami, panuje ogromny chaos. Elfy pracują w pocie czoła, by ich ciastka były perfekcyjne i zachwyciły nawet najbardziej wybrednych konsumentów. Dbają nie tylko o ich smak i aromat, ale również o ich wygląd. Elfy przygotowują ciastka z jednym z 3 wzorów: choinką, czapką Mikołaja i sankami. Każdy elf może przygotować ciastko z dowolnym wzorem, ale może również wytrwale dążyć do osiągnięcia perfekcji w jednym, konkretnym kształcie. Ich pracy wnikliwie przygląda się św. Mikołaj.
 
 Niestety, do fabryki zakradł się Grinch i dodał do syropu ciastkopsującego składnika, który powoduje, że po 5 minutach ciastka zaczynają się psuć i nie nadają się do zjedzenia.
@@ -9,3 +11,23 @@ Napisz program, który zasymuluje powyższą sytuację. Przygotuj strukturę dan
 Na końcu kodu dodaj Twoje imię, nazwisko oraz adres email, tak abyśmy wraz z elfami mogli przekazać Ci feedback do zadania ;)
 
 <sub>*Przesyłając rozwiązanie zadania programistycznego wyrażasz zgodę na przetwarzanie przez CentralNic Poland sp. z o.o. z siedzibą w Krakowie podanych przez siebie danych osobowych (imię, nazwisko, adres email), w celu otrzymania informacji zwrotnej. Z dodatkowymi informacjami można zapoznać się TUTAJ.*</sub>
+
+### Środowisko
+```
+Node 14+
+```
+
+### Instalacja zależności
+```
+npm i
+```
+
+### Uruchamianie programu
+```
+npm start
+```
+
+### Uruchamianie testów jednostkowych
+```
+npm test
+```
